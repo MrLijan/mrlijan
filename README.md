@@ -1,4 +1,4 @@
-![Liram's banner](/github.png)
+![Liram's banner](/Frame2.png)
 # Hi there, I'm MrLijan 👋
 
 I'm Full stack developer from Israel, <br/>
