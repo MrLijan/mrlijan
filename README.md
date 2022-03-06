@@ -1,13 +1,12 @@
+![Liram's banner](/github.png)
 # Hi there, I'm MrLijan 👋
 
-I'm Liram from Israel, and I do Full Stack development. <br/>
-I also planning and designing new products in general. <br/>
+I'm Full stack developer from Israel, <br/>
+I also enjoy planning and designing new products in general. <br/>
 
-[![MrLijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrlijan&count_private=true&show_icons=true&theme=github_dark)](https://github.com/mrlijan/github-readme-stats)
+<br />
 
-
-
-## ⚡Key specialties
+### ⚡Key specialties
 * 📜 **Languages**  - JavaScript, TypeScript, PHP, Python,
 * 😏 **Front-end**  - Vue.js, Nuxt, CSS3, Scss, HTML,
 * 🧠 **Back-end**   - Laravel, NodeJS (Fastify, Express),
@@ -15,12 +14,22 @@ I also planning and designing new products in general. <br/>
 
 <br />
 
-## 📫 How to reach me
+
+
+
+### 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/liramjan/ "Liram's Profile")
 - <liramj21@gmail.com>
 
+
+<br />
+
 ---
+
+### :chart_with_upwards_trend: My Github stats
+
+[![MrLijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrlijan&count_private=true&show_icons=true&theme=github_dark)](https://github.com/mrlijan/github-readme-stats)
 
 
 
