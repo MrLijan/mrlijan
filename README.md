@@ -31,7 +31,7 @@ I also enjoy planning and designing new products in general. <br/>
 ### :chart_with_upwards_trend: My Github stats
 
 [![MrLijan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrlijan&count_private=true&show_icons=true&theme=github_dark)](https://github.com/mrlijan/github-readme-stats)
-[![MrLijan's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlijan)](https://github.com/mrlijan/github-readme-stats)
+[![MrLijan's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrlijan&theme=github_dark)](https://github.com/mrlijan/github-readme-stats)
 
 
 
