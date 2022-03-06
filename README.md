@@ -7,27 +7,15 @@ I also planning and designing new products in general. <br/>
 
 
 
----
-### ⚡Specialties:
-- 📜 Languages:
-  - JavaScript,
-  - TypeScript
-  - PHP,
-  - Python.
+## ⚡Key specialties
+* 📜 **Languages**  - JavaScript, TypeScript, PHP, Python,
+* 😏 **Front-end**  - Vue.js, Nuxt, CSS3, Scss, HTML,
+* 🧠 **Back-end**   - Laravel, NodeJS (Fastify, Express),
+* 📒 **Databases**  - Prisma / TypeORM / Mongoose as an ORM/ODM for Database management.
 
-- 😏 Front-end technologies:
-  - SPA frameworks like [Vue.js](https://vuejs.org/ "VueJS Home Page"),
-  - CSS 3 / Sass / Scss,
-  - Server side rendering (SSR) frameworks like [Nuxt](https://nuxtjs.org/ "Nuxt Home Page").
+<br />
 
-- 🧠 Back-end technologies:
-  - Laravel,
-  - NodeJS frameworks like Fastify and Express,
-  - Prisma / TypeORM / Mongoose as an ORM/ODM for Database management.
-
----
-
-### 📫 How to reach me:
+## 📫 How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/liramjan/ "Liram's Profile")
 - <liramj21@gmail.com>
