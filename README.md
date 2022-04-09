@@ -7,11 +7,11 @@ I also enjoy planning and designing new products in general. <br/>
 <br />
 
 ### ⚡Key specialties
-* 📜 **Languages**  - JavaScript, TypeScript, PHP, Python,
-* 😏 **Front-end**  - Vue.js, Nuxt, CSS3, Scss, HTML,
-* 🧠 **Back-end**   - Laravel, NodeJS (Fastify, Express),
-* 📒 **Databases**  - Prisma / TypeORM / Mongoose as an ORM/ODM for Database management.
-* ☁️ **Deployment** - Docker containers including Docker-compose.
+* 📜 **Languages**    - JavaScript, TypeScript, PHP, Python,
+* 😏 **Front-end**    - Vue.js, Nuxt, CSS3, Scss, HTML,
+* 🧠 **Back-end**     - Laravel, NodeJS (Fastify, Express),
+* 📒 **Databases**    - Prisma / TypeORM / Mongoose as an ORM/ODM for Database management.
+* ☁️ **Deployment**   - Docker containers including Docker-compose.
 
 <br />
 
