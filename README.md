@@ -1,22 +1,26 @@
 ![Liram's banner](/Frame2.png)
 # Hi there, I'm MrLijan 👋
-
-I'm Full stack developer from Israel, <br/>
-I also enjoy planning and designing new products in general. <br/>
+I'm a full-stack developer and an ex-Product manager. I have been in the software and cyber-security industry for almost three years, working on the latest technologies in the market. <br/>
+I could testify about myself as a team member raising the team's morale.
+I'm seeking high standards, and my day-to-day motto is "Measure twice; cut once."
 
 <br />
 
 ### ⚡Key specialties
-* 📜 **Languages**    - JavaScript, TypeScript, PHP, Python,
-* 😏 **Front-end**    - Vue.js, Angular, Nuxt, CSS3, Scss, HTML,
-* 🧠 **Back-end**     - Laravel, NodeJS (Fastify, Express),
-* 📒 **Databases**    - Prisma / TypeORM / Mongoose as an ORM/ODM for Database management.
+* 📜 **Languages -** JavaScript, Typescript, PHP, C# (in progress).
+* :chains: **Code Paradigms -** Object-oriented, Functional.
+* :open_book: **Design Patterns -** Gang of Four (in progress)
+* 😏 **Front-end -** Vue.js, Angular, Nuxt, and Vanilla
+* 🧠 **Back-end -** Laravel, NestJS, Express, and ASP.NET (in progress),
+* 📒 **Databases -** Prisma, TypeORM, Mongoose as an ORM/ODM for DB management.
 * ☁️ **Deployment**   - Docker containers including Docker-compose.
 
 <br />
 
+### :construction_worker_man: Active project
+* [Restmold](https://github.com/MrLijan/Restmold) - Model-based HTTP client for Laravel applications (package),
 
-
+<br />
 
 ### 📫 How to reach me
 
