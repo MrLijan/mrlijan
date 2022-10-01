@@ -17,7 +17,7 @@ I'm seeking high standards, and my day-to-day motto is "Measure twice; cut once.
 
 <br />
 
-### :construction_worker_man: Active project
+### :construction: Currently working on
 * [Restmold](https://github.com/MrLijan/Restmold) - Model-based HTTP client for Laravel applications (package),
 
 <br />
